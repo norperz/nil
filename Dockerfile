@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Sidesplitter, https://github.com/SexualRhinoceros/MusicBot
+MAINTAINER Sidesplitter
 
 #Install dependencies
 RUN sudo apt-get update \
